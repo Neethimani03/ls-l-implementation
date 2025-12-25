@@ -19,6 +19,6 @@ This project implements a simplified version of the Linux `ls -l` command using 
 
 ## Build and Run
 ```bash
-gcc ls-l.c -o myls
-./myls
+cc ls-l.c -o myls-l
+./myls-l
 
